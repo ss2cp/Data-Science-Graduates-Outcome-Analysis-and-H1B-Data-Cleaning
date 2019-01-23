@@ -6,7 +6,7 @@ This is an on-going personal enrichment project. I'm keeping a log-style readme 
 
 Today, I was looking at different Data Science Programs and their graduates' career outcomes. Understandably, some programs either do not disclose post-graduate outcomes, or limit to high-level summary/percentage data. While it is to each individual program's liberty to disclose its data, post-graduate outcome is one of my main focuses when choosing MS Data Science programs, more generally, H1B visa sponsorship among international students. I have decided to look deeper into each program's websites to collect each student's career outcomes, which can be later compared with overall H1B Sponsorship data to see how hot data science really is. 
 
-*I have concerns whether it is ethical/legal to collect students data. So far, all the data and datasets are public accessible. More research on such matter will be conducted as the project digs deeper.*
+**I have concerns whether it is ethical/legal to collect students data. So far, all the data and datasets are public accessible. More research on such matter will be conducted as the project digs deeper.*
 
 ### Findings:
 
