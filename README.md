@@ -39,7 +39,7 @@ Today, I was looking at different Data Science Programs and their graduates' car
 
 ## Jan. 22nd 2019
 
-Today, I worked with Selenium to achieve automated login and search on qichacha.com, a Chinese enterprise-data website. The goal is to ge familiar with Selenium for later data scraping on LinkedIn. (and my boss asked me to do a research on partnership-companies of our Travel Management client) The process is very similar to searching in LinkedIn.
+Today, I worked with Selenium to achieve automated login and search on qichacha.com, a Chinese enterprise-data website. The goal is to get familiar with Selenium for later data scraping on LinkedIn. (and my boss asked me to do a research on partnership-companies of our Travel Management client) The process is very similar to searching in LinkedIn.
 
 ### Findings:
 
@@ -49,7 +49,7 @@ Today, I worked with Selenium to achieve automated login and search on qichacha.
 
 - An inconvinience of converting Chinese into url can be solved with ```urllib.parse.quote([CompanyName])```
 
-- Selenium uses a incognito-similar window in Chrome for operations. 
+- Selenium uses a incognito-similar Chrome window for operations. 
 
 - Most websites do not allow too many search queries from the same IP address within certain timeframe. e.g. qichacha.com requires log in to paid membership after a certain threshold.
 
