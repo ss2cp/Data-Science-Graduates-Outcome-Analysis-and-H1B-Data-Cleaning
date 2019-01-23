@@ -32,7 +32,9 @@ Today, I was looking at different Data Science Programs and their graduates' car
 ### Files:
 
 2016 H1B Data
+
 2017 H1B Data
+
 2018 H1B Data
 
 ## Jan. 22nd 2019
