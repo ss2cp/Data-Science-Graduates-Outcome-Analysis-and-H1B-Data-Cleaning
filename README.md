@@ -31,6 +31,32 @@ Today, I was looking at different Data Science Programs and their graduates' car
 
 ### Files:
 
-2016-2018 H1B Data
+2016 H1B Data
+2017 H1B Data
+2018 H1B Data
+
+## Jan. 22nd 2019
+
+Today, I worked with Selenium to achieve automated login and search on qichacha.com, a Chinese enterprise-data website. The goal is to ge familiar with Selenium for later data scraping on LinkedIn. (and my boss asked me to do a research on partnership-companies of our Travel Management client) The process is very similar to searching in LinkedIn.
+
+### Findings:
+
+- URLs for each company profile are encoded by their own algorithms, like ```.../firm_52313235c549c109ff0c5ebbba7605d2.html```
+
+- But search url remains constant with ```.../search?key=[CompanyName]```
+
+- An inconvinience of converting Chinese into url can be solved with ```urllib.parse.quote([CompanyName])```
+
+- Selenium uses a incognito-similar window in Chrome for operations. 
+
+- Most websites do not allow too many search queries from the same IP address within certain timeframe. e.g. qichacha.com requires log in to paid membership after a certain threshold.
+
+- This can be solved with a manual log in before automated process.
+
+- At this point, most of my goals can be achieved, except for premium LinkedIn membership for unlimited search. 
+
+### Ideas:
+
+- I still remain concerns on the ethical part of this project. All the automated process done today is no different than hiring an intern to collect data.
 
 ## TO BE CONTINUED...
